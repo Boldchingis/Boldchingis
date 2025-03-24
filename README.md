@@ -6,19 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-lorem
-
----
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Boldchingis-black?style=for-the-badge&logo=github)](https://github.com/Boldchingis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boldchingis-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Boldchingis/)
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
