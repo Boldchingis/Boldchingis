@@ -1,9 +1,5 @@
 ### Hi there, I'm **Boldchingis**! 👋
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Boldchingis&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophy Graph"/>
-</p>
-
 ---
 
 ## 🛠️ Languages & Tools
