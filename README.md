@@ -26,11 +26,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boldchingis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=white&hide_border=true" height="180" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Boldchingis&locale=en&mode=daily&theme=white&hide_border=true&border_radius=5" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boldchingis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Boldchingis&locale=en&mode=daily&theme=blue&hide_border=true&border_radius=5" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boldchingis&radius=16&theme=white&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boldchingis&radius=16&theme=blue&area=true&hide_border=true" alt="Activity Graph" />
 </p>
