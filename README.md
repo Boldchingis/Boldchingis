@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boldchingis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue&hide_border=true" height="180" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Boldchingis&locale=en&mode=daily&theme=blue&hide_border=true&border_radius=5" height="180" alt="GitHub Streak" />
+
 </p>
 
 <p align="center">
