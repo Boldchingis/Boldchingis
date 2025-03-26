@@ -1,4 +1,4 @@
-### `Boldchingis@github`:~$ neofetch`
+### `Boldchingis@github`:~$ neofetch
 
 ```shell
              ...-:::::-...                 k@K
