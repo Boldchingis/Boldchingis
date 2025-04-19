@@ -102,6 +102,18 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c programming" width="60" height="60" />
   </a>
+<a href="https://getfedora.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora linux" width="60" height="60" style="background-color: white; border-radius: 12px; padding: 6px;" />
+  </a>
 
+  <!-- GSAP -->
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="gsap" width="60" height="60" />
+  </a>
+
+  <!-- Kitty Terminal -->
+  <a href="https://sw.kovidgoyal.net/kitty/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Kitty_terminal_logo.svg" alt="kitty terminal" width="60" height="60" style="background-color: white; border-radius: 12px; padding: 6px;" />
+  </a>
 </div>
 
