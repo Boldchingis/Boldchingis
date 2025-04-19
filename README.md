@@ -70,7 +70,7 @@
 
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="60" height="60" />
+    <img src="https://www.cdnlogo.com/logos/u/34/ubuntu-icon.svg" alt="ubuntu" width="60" height="60" />
   </a>
 
   <!-- Kubuntu -->
