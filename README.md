@@ -75,7 +75,7 @@
 
   <!-- Kubuntu -->
   <a href="https://kubuntu.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kubuntu_logo.svg/512px-Kubuntu_logo.svg.png" alt="kubuntu" width="60" height="60" style="background-color: white; border-radius: 12px; padding: 6px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/768px-Kubuntu_logo.svg.png" alt="kubuntu" width="60" height="60" style="background-color: white; border-radius: 12px; padding: 6px;" />
   </a>
 
   <!-- Debian -->
@@ -103,9 +103,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c programming" width="60" height="60" />
   </a>
 
-  <!-- Notepad -->
-  <a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Notepad_icon_%28Windows_10%29.png" alt="notepad" width="60" height="60" />
-  </a>
 </div>
 
