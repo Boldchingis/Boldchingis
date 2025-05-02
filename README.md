@@ -1,31 +1,56 @@
-<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; display: inline-block;">
-  
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
+<!-- Header Image -->
+<p align="center">
+  <img width="1000" alt="header_1" src="https://github.com/user-attachments/assets/24a17748-dee7-4422-a262-e1bac92aefce" />
+</p>
+<!-- GitHub Stats + Top Languages -->
+<!-- GitHub Stats + Top Languages -->
+<div align="center">
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" alt="Framer Motion" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" alt="GSAP" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" height="200" />
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="70" height="70" style="margin: 10px; border-radius: 10px; background: white; padding: 10px;" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Arch Linux" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="70" height="70" style="margin: 10px; border-radius: 10px; background: #2e2e2e; padding: 10px;" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&theme=graywhite&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="420" height="200" />
 
 </div>
+
+---
+
+<!-- Responsive Tech + Tools Icons -->
+<div align="center">
+
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    gap: 16px;
+    justify-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+  ">
+    <img src="https://skillicons.dev/icons?i=c" width="60" />
+    <img src="https://skillicons.dev/icons?i=ts" width="60" />
+    <img src="https://skillicons.dev/icons?i=js" width="60" />
+    <img src="https://skillicons.dev/icons?i=html" width="60" />
+    <img src="https://skillicons.dev/icons?i=css" width="60" />
+    <img src="https://skillicons.dev/icons?i=react" width="60" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="60" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="60" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="60" />
+    <img src="https://skillicons.dev/icons?i=neovim" width="60" />
+    <img src="https://skillicons.dev/icons?i=linux" width="60" />
+    <img src="https://skillicons.dev/icons?i=arch" width="60" />
+    <img src="https://skillicons.dev/icons?i=bash" width="60" />
+    <img src="https://skillicons.dev/icons?i=git" width="60" />
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
+    <img src="https://skillicons.dev/icons?i=figma" width="60" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="60" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="60" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="60" />
+    <img src="https://skillicons.dev/icons?i=redis" width="60" />
+    <img src="https://skillicons.dev/icons?i=gsap" width="60" />
+    <img src="https://skillicons.dev/icons?i=kitty" width="60" />
+  </div>
+
+</div>
+
+
