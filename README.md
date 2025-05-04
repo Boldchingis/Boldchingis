@@ -1,15 +1,11 @@
 <!-- GitHub Stats + Top Languages -->
 <div align="center">
-<!-- GitHub Stats -->
+
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_border=false&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" width="420" height="200" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&hide_border=false&layout=compact&count_private=true&theme=dark" alt="Top Languages" width="420" height="200" />
-
-
-
-
 
 </div>
 
