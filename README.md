@@ -1,10 +1,12 @@
 <!-- GitHub Stats + Top Languages -->
 <div align="center">
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="420" height="200"  />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" width="420" height="200" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&hide_border=true&layout=compact&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Languages" width="420" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&hide_border=true&layout=compact&count_private=true&theme=dark" alt="Top Languages" width="420" height="200" />
+
 
 
 
