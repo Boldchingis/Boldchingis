@@ -42,8 +42,6 @@
     <img src="https://skillicons.dev/icons?i=mysql" width="60" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="60" />
     <img src="https://skillicons.dev/icons?i=redis" width="60" />
-    <img src="https://skillicons.dev/icons?i=gsap" width="60" />
-    <img src="https://skillicons.dev/icons?i=kitty" width="60" />
     <img src="https://skillicons.dev/icons?i=vim" width="60" />
   </div>
 
