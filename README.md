@@ -2,10 +2,10 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&theme=black&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" height="200" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&theme=graywhite&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&theme=black&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="420" height="200" />
 
 </div>
 
