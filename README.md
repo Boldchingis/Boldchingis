@@ -1,10 +1,10 @@
 <!-- GitHub Stats + Top Languages -->
 <div align="center">
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="420" height="200" style="backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.1); border: 2px solid rgba(255, 255, 255, 0.3); border-radius: 12px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="420" height="200"  />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&hide_border=true&layout=compact&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Languages" width="420" height="200" style="backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.1); border: 2px solid rgba(255, 255, 255, 0.3); border-radius: 12px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&hide_border=true&layout=compact&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Languages" width="420" height="200" />
 
 
 
