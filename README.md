@@ -39,13 +39,16 @@
     <img src="https://skillicons.dev/icons?i=bash" width="60" />
     <img src="https://skillicons.dev/icons?i=cassandra" width="60" />
     <img src="https://skillicons.dev/icons?i=git" width="60" />
+    <img src="https://skillicons.dev/icons?i=vim" width="60" />
     <img src="https://skillicons.dev/icons?i=github" width="60" />
     <img src="https://skillicons.dev/icons?i=figma" width="60" />
     <img src="https://skillicons.dev/icons?i=mongodb" width="60" />
     <img src="https://skillicons.dev/icons?i=mysql" width="60" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="60" />
     <img src="https://skillicons.dev/icons?i=redis" width="60" />
-    <img src="https://skillicons.dev/icons?i=vim" width="60" />
+    <img src="https://skillicons.dev/icons?i=npm" width="60" />
+    <img src="https://skillicons.dev/icons?i=prisma" width="60" />
+   
   </div>
 
 </div>
