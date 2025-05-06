@@ -27,6 +27,7 @@
     <img src="https://skillicons.dev/icons?i=js" width="60" />
     <img src="https://skillicons.dev/icons?i=html" width="60" />
        <img src="https://skillicons.dev/icons?i=cypress" width="60" />
+     <img src="https://skillicons.dev/icons?i=nx" width="60" />
     <img src="https://skillicons.dev/icons?i=css" width="60" />
     <img src="https://skillicons.dev/icons?i=react" width="60" />
     <img src="https://skillicons.dev/icons?i=nextjs" width="60" />
