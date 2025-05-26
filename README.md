@@ -1,19 +1,13 @@
 <!-- GitHub Stats + Top Languages -->
 <div align="center">
-
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&hide_border=false&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" width="420" height="200" />
-
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&hide_border=false&layout=compact&count_private=true&theme=dark" alt="Top Languages" width="420" height="200" />
-
 </div>
-
 ---
-
 <!-- Responsive Tech + Tools Icons -->
 <div align="center">
-
   <div style="
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
@@ -48,9 +42,7 @@
     <img src="https://skillicons.dev/icons?i=redis" width="60" />
     <img src="https://skillicons.dev/icons?i=npm" width="60" />
     <img src="https://skillicons.dev/icons?i=prisma" width="60" />
-   
   </div>
-
 </div>
 
 
