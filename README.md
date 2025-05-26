@@ -5,7 +5,6 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&hide_border=false&layout=compact&count_private=true&theme=dark" alt="Top Languages" width="420" height="200" />
 </div>
----
 <!-- Responsive Tech + Tools Icons -->
 <div align="center">
   <div style="
