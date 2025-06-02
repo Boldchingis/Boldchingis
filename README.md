@@ -15,7 +15,6 @@
     max-width: 800px;
     margin: 0 auto;
   ">
-    <img src="https://skillicons.dev/icons?i=c" width="60" />
     <img src="https://skillicons.dev/icons?i=ts" width="60" />
     <img src="https://skillicons.dev/icons?i=js" width="60" />
     <img src="https://skillicons.dev/icons?i=html" width="60" />
