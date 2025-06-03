@@ -17,10 +17,8 @@
   ">
     <img src="https://skillicons.dev/icons?i=ts" width="60" />
     <img src="https://skillicons.dev/icons?i=js" width="60" />
-    <img src="https://skillicons.dev/icons?i=html" width="60" />
     <img src="https://skillicons.dev/icons?i=cypress" width="60" />
     <img src="https://skillicons.dev/icons?i=jest" width="60" />
-    <img src="https://skillicons.dev/icons?i=css" width="60" />
     <img src="https://skillicons.dev/icons?i=react" width="60" />
     <img src="https://skillicons.dev/icons?i=nextjs" width="60" />
     <img src="https://skillicons.dev/icons?i=tailwind" width="60" />
@@ -29,7 +27,6 @@
     <img src="https://skillicons.dev/icons?i=linux" width="60" />
     <img src="https://skillicons.dev/icons?i=arch" width="60" />
     <img src="https://skillicons.dev/icons?i=bash" width="60" />
-    <img src="https://skillicons.dev/icons?i=cassandra" width="60" />
     <img src="https://skillicons.dev/icons?i=git" width="60" />
     <img src="https://skillicons.dev/icons?i=vim" width="60" />
     <img src="https://skillicons.dev/icons?i=github" width="60" />
