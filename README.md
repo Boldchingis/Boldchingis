@@ -6,6 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16" />
 
 </div>
+
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF)
