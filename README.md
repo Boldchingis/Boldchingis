@@ -7,6 +7,8 @@
 
 </div>
 
+<br/>
+ 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF)
