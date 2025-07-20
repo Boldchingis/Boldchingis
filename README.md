@@ -1,2 +1,2 @@
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;"><img src="https://github-readme-stats.vercel.app/api?username=Boldchingis&show_icons=true&theme=dark&hide_border=false&show=reviews,prs_merged,prs_merged_percentage" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" /></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" /></div>
