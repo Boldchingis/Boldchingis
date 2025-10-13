@@ -1,5 +1,5 @@
 # Hi there 👋
-## Languages 
+
 <p align="left" style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:16px;">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
@@ -8,10 +8,6 @@
   <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-</p>
-
-## Libraries & Frameworks
-<p align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="reactjs logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="expressjs logo" />
