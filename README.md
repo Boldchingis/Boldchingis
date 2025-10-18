@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrapcss logo" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
