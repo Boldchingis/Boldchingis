@@ -12,6 +12,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="expressjs logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrapcss logo" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" />
