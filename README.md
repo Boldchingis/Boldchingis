@@ -29,10 +29,6 @@
 
 --- 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boldchingis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
 
-<center>
-  <img
-    style="margin: 0 auto; display: block"
-    src="https://contribution.catsjuice.com/_/Boldchingis?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=green"
-  />
-</center>
+
